@@ -11,7 +11,7 @@
 	branch = 3.0.x
 [submodule "third_party/gflags"]
 	path = third_party/gflags
-	url = https://hub.fastgit.org/gflags/gflags.git
+	url = https://hub.fastgit.org/laoqian12345/gflags.git
 [submodule "third_party/googletest"]
 	path = third_party/googletest
 	url = https://hub.fastgit.org/google/googletest.git
